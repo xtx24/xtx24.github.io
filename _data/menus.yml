@@ -4,9 +4,6 @@
 - name: CATEGORY
   url: /category/
   icon: "&#xe53b;"
-- name: TAGS
-  url: /tags/
-  icon: "&#xe893;"
 - name: LOVER
   url: /love/
   icon: "&#xe87d;"
