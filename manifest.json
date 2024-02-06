@@ -6,15 +6,15 @@
         "sizes": "128x128",
         "type": "image/png"
       }, {
-        "src": "assets/images/touch/apple-touch-icon.png",
+        "src": "https://s3.bmp.ovh/imgs/2024/02/06/dc3d42d3b55ffdeb.jpg",
         "sizes": "152x152",
         "type": "image/png"
       }, {
-        "src": "assets/images/touch/ms-touch-icon-144x144-precomposed.png",
+        "src": "https://s3.bmp.ovh/imgs/2024/02/06/dc3d42d3b55ffdeb.jpg",
         "sizes": "144x144",
         "type": "image/png"
       }, {
-        "src": "assets/images/touch/chrome-touch-icon-192x192.png",
+        "src": "https://s3.bmp.ovh/imgs/2024/02/06/dc3d42d3b55ffdeb.jpg",
         "sizes": "192x192",
         "type": "image/png"
       }],
